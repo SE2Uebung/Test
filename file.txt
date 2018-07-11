@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Der jjjjjjjjjjUnternehmenstag in Sankt Augustin ist die 
+=======
+Der  hhhhhhhhh Unternehmenstag in Sankt Augustin ist die 
+>>>>>>> dev
 Karrieremesse und Kontaktbörse für Studierende,
  Absolventen und Unternehmen. 
 hallo liebe leute, ihr seit alle ür hochzeit herzlich geladen 
